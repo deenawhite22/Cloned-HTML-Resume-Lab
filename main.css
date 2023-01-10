@@ -1,3 +1,24 @@
-body{
+body {
   background-color: teal;
+}
+#JobOne {
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: solid;
+  border-width: 5px;
+  border-color: darkgoldenrod;
+}
+#JobTwo {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border-style: dotted;
+  border-width: 20px 5px;
+  border-color: blueviolet;
+}
+#JobThree {
+  font-family: fantasy;
+  border-style: groove;
+  border-width: 10px;
+  border-color: chartreuse;
+}
+h2 {
+  color: indianred;
 }
